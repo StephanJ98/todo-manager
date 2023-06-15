@@ -1,5 +1,16 @@
 # Todo Manager
 
+## Descripción y funcionalidades
+
+Pequeña aplicación personal para la gestión de tareas mediante un tablero kamban. Permite Crear, eliminar y desplazar tareas en el tablero. Además de soportar la posibilidad de añadir imagenes a las tareas.
+
+# Stack Técnica
+
+- [NextJS](https://nextjs.org/)
+- [ReactJS](https://react.dev/)
+- [Tailwindcss](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+
 ## Requisitos
 
 - Cuenta gratuita en [Vercel](https://vercel.com/dashboard).
@@ -26,3 +37,11 @@
 7. Volvemos a appwrite.
     1. En el dashboard seleccionar la plataforma que hemos creado.
     2. En `Update Hostname` pegamos la url donde vercel a publicado la página.
+    
+## Previews
+
+### Página principal
+![principal](.github/main.png)
+
+### Creación de una tarea
+![principal](.github/modalAdd.png)
